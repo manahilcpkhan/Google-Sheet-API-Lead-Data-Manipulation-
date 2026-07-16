@@ -16,19 +16,6 @@ Do not commit or push the following files because they contain sensitive credent
 - `token.json`
 - `token_sheets_v4.pickle`
 
-## Git push steps
-
-1. Create a GitHub repository.
-2. Add the remote:
-   ```bash
-   git remote add origin https://github.com/USERNAME/REPO.git
-   ```
-3. Push the local branch:
-   ```bash
-   git push -u origin master
-   ```
-
-
 # Lead-Gen-Google-Sheet-API-Galvan-AI
 
 A secure, robust, and highly flexible Lead Generation CRM engine built directly inside Jupyter Notebook. This project connects programmatically to the Google Sheets V4 API using OAuth 2.0 user credentials, featuring a localized data validation pipeline (via Pandas) and comprehensive error handling modules.
