@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Google API auth artifacts
+client_secret.json
+token.json
+token_sheets_v4.pickle
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Optional environment files
+.env
+venv/
